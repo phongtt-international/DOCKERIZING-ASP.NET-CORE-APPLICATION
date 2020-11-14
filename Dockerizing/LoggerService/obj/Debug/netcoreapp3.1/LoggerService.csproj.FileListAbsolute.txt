@@ -1,0 +1,14 @@
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

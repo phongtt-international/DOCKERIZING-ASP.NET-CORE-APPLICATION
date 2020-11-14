@@ -1,0 +1,14 @@
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
