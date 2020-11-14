@@ -136,9 +136,6 @@ F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\bin\
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\bin\Debug\netcoreapp3.1\Contracts.pdb
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csprojAssemblyReference.cache
-F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
-F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
-F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfoInputs.cache
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfo.cs
 F:\Docker\Dockerizing-ASP.NET-CORE-APPLICATION\Dockerizing\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.RazorTargetAssemblyInfo.cache
